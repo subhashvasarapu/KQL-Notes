@@ -199,7 +199,7 @@ Perf
 
 KQL is not just a query language; it's an **analyst's wand**, a **developer's magnifier**, and a **security guardian's shield**. Use it to slice time, stitch patterns, sniff anomalies, and trace problems — all with readable, powerful syntax.
 
-[Play Ground For Challenges]([url](https://detective.kusto.io/awards?index=-1))
+[Play Ground For Challenges](https://detective.kusto.io/awards?index=-1)
 
 My Achievements:
 
